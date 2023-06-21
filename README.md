@@ -1,6 +1,6 @@
 # WISA - WOW
 
-Demonstration of denoising and image enahncement with the à trous wavelet transform for the WISA 2023 conference.
+[Jupyter notebook](wow.ipynb). Denoising and image enahncement with the *à trous* wavelet transform. Prepared for the [WISA 2023 conference](https://www.wisa2023.org/).
 
 ## Installation
 
