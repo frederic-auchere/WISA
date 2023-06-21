@@ -1,3 +1,22 @@
-# WISA
+# WISA - WOW
 
 Demonstration of denoising and image enahncement with the à trous wavelet transform for the WISA 2023 conference.
+
+## Installation
+
+You'll need three packages that are not in PyPi, so you'll have to clone them
+
+git clone https://github.com/frederic-auchere/wavelets.git
+pip install wavelets\.
+
+git clone https://github.com/frederic-auchere/rectify.git
+pip install rectify\.
+
+git clone https://github.com/frederic-auchere/wow.git
+pip install wow\.
+
+You'll also need ```sunpy``` (only for the official EUI 174 color table)
+
+```shell
+pip install sunpy.
+```
