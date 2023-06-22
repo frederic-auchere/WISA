@@ -8,17 +8,20 @@ You'll need three packages that are not in PyPi, so you'll have to clone them
 
 ```shell
 git clone https://github.com/frederic-auchere/wavelets.git
-pip install wavelets\.
+cd wavelets
+pip .
 ```
 
 ```shell
 git clone https://github.com/frederic-auchere/rectify.git
-pip install rectify\.
+cd rectify
+pip install .
 ```
 
 ```shell
 git clone https://github.com/frederic-auchere/wow.git
-pip install wow\.
+cd wow
+pip install .
 ```
 
 You'll also need ```sunpy``` (only for the official EUI 174 color table)
